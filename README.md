@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Trenchkid2
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m currently collaborating with Pepelz
 - 📫 How to reach me twitter @triggadasnipa
 
 <!---
